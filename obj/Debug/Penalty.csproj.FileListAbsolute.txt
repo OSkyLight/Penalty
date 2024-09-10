@@ -1,0 +1,120 @@
+C:\Users\Administrator\Desktop\Penalty\bin\Debug\Penalty.exe.config
+C:\Users\Administrator\Desktop\Penalty\bin\Debug\Penalty.exe
+C:\Users\Administrator\Desktop\Penalty\bin\Debug\Penalty.pdb
+C:\Users\Administrator\Desktop\Penalty\obj\Debug\Penalty.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Penalty\obj\Debug\Penalty.Form1.resources
+C:\Users\Administrator\Desktop\Penalty\obj\Debug\Penalty.GameResources.resources
+C:\Users\Administrator\Desktop\Penalty\obj\Debug\Penalty.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Penalty\obj\Debug\Penalty.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Penalty\obj\Debug\Penalty.exe
+C:\Users\Administrator\Desktop\Penalty\obj\Debug\Penalty.pdb
+C:\Users\Hao Thien\Documents\Game Project\Penalty\bin\Debug\Penalty.exe.config
+C:\Users\Hao Thien\Documents\Game Project\Penalty\obj\Debug\Penalty.exe
+C:\Users\Hao Thien\Documents\Game Project\Penalty\obj\Debug\Penalty.pdb
+C:\Users\Hao Thien\Documents\Game Project\Penalty\bin\Debug\Penalty.exe
+C:\Users\Hao Thien\Documents\Game Project\Penalty\bin\Debug\Penalty.pdb
+C:\Users\Hao Thien\Documents\Game Project\Penalty\obj\Debug\Penalty.csprojResolveAssemblyReference.cache
+C:\Users\Hao Thien\Documents\Game Project\Penalty\obj\Debug\Penalty.Form1.resources
+C:\Users\Hao Thien\Documents\Game Project\Penalty\obj\Debug\Penalty.GameResources.resources
+C:\Users\Hao Thien\Documents\Game Project\Penalty\obj\Debug\Penalty.Properties.Resources.resources
+C:\Users\Hao Thien\Documents\Game Project\Penalty\obj\Debug\Penalty.csproj.GenerateResource.Cache
+C:\Users\vongh\Downloads\Game Projet\Penalty\bin\Debug\Penalty.exe.config
+C:\Users\vongh\Downloads\Game Projet\Penalty\obj\Debug\Penalty.exe
+C:\Users\vongh\Downloads\Game Projet\Penalty\obj\Debug\Penalty.pdb
+C:\Users\vongh\Downloads\Game Projet\Penalty\bin\Debug\Penalty.exe
+C:\Users\vongh\Downloads\Game Projet\Penalty\bin\Debug\Penalty.pdb
+C:\Users\vongh\Downloads\Game Projet\Penalty\obj\Debug\Penalty.csprojResolveAssemblyReference.cache
+C:\Users\vongh\Downloads\Game Projet\Penalty\obj\Debug\Penalty.Form1.resources
+C:\Users\vongh\Downloads\Game Projet\Penalty\obj\Debug\Penalty.GameResources.resources
+C:\Users\vongh\Downloads\Game Projet\Penalty\obj\Debug\Penalty.Properties.Resources.resources
+C:\Users\vongh\Downloads\Game Projet\Penalty\obj\Debug\Penalty.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Compressed\Penalty\bin\Debug\Penalty.exe.config
+C:\Users\Administrator\Downloads\Compressed\Penalty\obj\Debug\Penalty.exe
+C:\Users\Administrator\Downloads\Compressed\Penalty\obj\Debug\Penalty.pdb
+C:\Users\Administrator\Downloads\Compressed\Penalty\bin\Debug\Penalty.exe
+C:\Users\Administrator\Downloads\Compressed\Penalty\bin\Debug\Penalty.pdb
+C:\Users\Administrator\Downloads\Compressed\Penalty\obj\Debug\Penalty.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Compressed\Penalty\obj\Debug\Penalty.Form1.resources
+C:\Users\Administrator\Downloads\Compressed\Penalty\obj\Debug\Penalty.GameResources.resources
+C:\Users\Administrator\Downloads\Compressed\Penalty\obj\Debug\Penalty.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Compressed\Penalty\obj\Debug\Penalty.csproj.GenerateResource.Cache
+P:\GMC1\Module 2\Project\Thien va Tai\Prototype\Penalty\bin\Debug\Penalty.exe.config
+P:\GMC1\Module 2\Project\Thien va Tai\Prototype\Penalty\obj\Debug\Penalty.exe
+P:\GMC1\Module 2\Project\Thien va Tai\Prototype\Penalty\obj\Debug\Penalty.pdb
+P:\GMC1\Module 2\Project\Thien va Tai\Prototype\Penalty\bin\Debug\Penalty.exe
+P:\GMC1\Module 2\Project\Thien va Tai\Prototype\Penalty\bin\Debug\Penalty.pdb
+P:\GMC1\Module 2\Project\Thien va Tai\Prototype\Penalty\obj\Debug\Penalty.csprojResolveAssemblyReference.cache
+P:\GMC1\Module 2\Project\Thien va Tai\Prototype\Penalty\obj\Debug\Penalty.Form1.resources
+P:\GMC1\Module 2\Project\Thien va Tai\Prototype\Penalty\obj\Debug\Penalty.GameResources.resources
+P:\GMC1\Module 2\Project\Thien va Tai\Prototype\Penalty\obj\Debug\Penalty.Properties.Resources.resources
+P:\GMC1\Module 2\Project\Thien va Tai\Prototype\Penalty\obj\Debug\Penalty.csproj.GenerateResource.Cache
+C:\Users\admin1\Downloads\Penalty\bin\Debug\Penalty.exe.config
+C:\Users\admin1\Downloads\Penalty\obj\Debug\Penalty.exe
+C:\Users\admin1\Downloads\Penalty\obj\Debug\Penalty.pdb
+C:\Users\admin1\Downloads\Penalty\bin\Debug\Penalty.exe
+C:\Users\admin1\Downloads\Penalty\bin\Debug\Penalty.pdb
+C:\Users\admin1\Downloads\Penalty\obj\Debug\Penalty.csprojResolveAssemblyReference.cache
+C:\Users\admin1\Downloads\Penalty\obj\Debug\Penalty.GameResources.resources
+C:\Users\admin1\Downloads\Penalty\obj\Debug\Penalty.Properties.Resources.resources
+C:\Users\admin1\Downloads\Penalty\obj\Debug\Penalty.csproj.GenerateResource.Cache
+C:\Users\admin1\Downloads\Penalty\obj\Debug\Penalty.Form1.resources
+C:\Users\vongh\Documents\Game Project\Penalty\bin\Debug\Penalty.exe.config
+C:\Users\vongh\Documents\Game Project\Penalty\obj\Debug\Penalty.exe
+C:\Users\vongh\Documents\Game Project\Penalty\obj\Debug\Penalty.pdb
+C:\Users\vongh\Documents\Game Project\Penalty\bin\Debug\Penalty.exe
+C:\Users\vongh\Documents\Game Project\Penalty\bin\Debug\Penalty.pdb
+C:\Users\vongh\Documents\Game Project\Penalty\obj\Debug\Penalty.csprojResolveAssemblyReference.cache
+C:\Users\vongh\Documents\Game Project\Penalty\obj\Debug\Penalty.Form1.resources
+C:\Users\vongh\Documents\Game Project\Penalty\obj\Debug\Penalty.GameResources.resources
+C:\Users\vongh\Documents\Game Project\Penalty\obj\Debug\Penalty.Properties.Resources.resources
+C:\Users\vongh\Documents\Game Project\Penalty\obj\Debug\Penalty.csproj.GenerateResource.Cache
+C:\Users\Hao Thien\Videos\Project\Penalty\bin\Debug\Penalty.exe.config
+C:\Users\Hao Thien\Videos\Project\Penalty\obj\Debug\Penalty.exe
+C:\Users\Hao Thien\Videos\Project\Penalty\obj\Debug\Penalty.pdb
+C:\Users\Hao Thien\Videos\Project\Penalty\bin\Debug\Penalty.exe
+C:\Users\Hao Thien\Videos\Project\Penalty\bin\Debug\Penalty.pdb
+C:\Users\Hao Thien\Videos\Project\Penalty\obj\Debug\Penalty.csprojResolveAssemblyReference.cache
+C:\Users\Hao Thien\Videos\Project\Penalty\obj\Debug\Penalty.Form1.resources
+C:\Users\Hao Thien\Videos\Project\Penalty\obj\Debug\Penalty.GameResources.resources
+C:\Users\Hao Thien\Videos\Project\Penalty\obj\Debug\Penalty.Properties.Resources.resources
+C:\Users\Hao Thien\Videos\Project\Penalty\obj\Debug\Penalty.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Penalty\bin\Debug\Penalty.exe.config
+C:\Users\admin\Downloads\Penalty\obj\Debug\Penalty.exe
+C:\Users\admin\Downloads\Penalty\obj\Debug\Penalty.pdb
+C:\Users\admin\Downloads\Penalty\bin\Debug\Penalty.exe
+C:\Users\admin\Downloads\Penalty\bin\Debug\Penalty.pdb
+C:\Users\admin\Downloads\Penalty\obj\Debug\Penalty.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Penalty\obj\Debug\Penalty.Form1.resources
+C:\Users\admin\Downloads\Penalty\obj\Debug\Penalty.GameResources.resources
+C:\Users\admin\Downloads\Penalty\obj\Debug\Penalty.Properties.Resources.resources
+C:\Users\admin\Downloads\Penalty\obj\Debug\Penalty.csproj.GenerateResource.Cache
+C:\Users\vongh\Documents\Game Project\New version\Penalty\bin\Debug\Penalty.exe.config
+C:\Users\vongh\Documents\Game Project\New version\Penalty\obj\Debug\Penalty.exe
+C:\Users\vongh\Documents\Game Project\New version\Penalty\obj\Debug\Penalty.pdb
+C:\Users\vongh\Documents\Game Project\New version\Penalty\bin\Debug\Penalty.exe
+C:\Users\vongh\Documents\Game Project\New version\Penalty\bin\Debug\Penalty.pdb
+C:\Users\vongh\Documents\Game Project\New version\Penalty\obj\Debug\Penalty.csprojResolveAssemblyReference.cache
+C:\Users\vongh\Documents\Game Project\New version\Penalty\obj\Debug\Penalty.Form1.resources
+C:\Users\vongh\Documents\Game Project\New version\Penalty\obj\Debug\Penalty.GameResources.resources
+C:\Users\vongh\Documents\Game Project\New version\Penalty\obj\Debug\Penalty.Properties.Resources.resources
+C:\Users\vongh\Documents\Game Project\New version\Penalty\obj\Debug\Penalty.csproj.GenerateResource.Cache
+C:\Users\Hao Thien\Videos\Project\Almost Done\Penalty\bin\Debug\Penalty.exe.config
+C:\Users\Hao Thien\Videos\Project\Almost Done\Penalty\obj\Debug\Penalty.exe
+C:\Users\Hao Thien\Videos\Project\Almost Done\Penalty\obj\Debug\Penalty.pdb
+C:\Users\Hao Thien\Videos\Project\Almost Done\Penalty\bin\Debug\Penalty.exe
+C:\Users\Hao Thien\Videos\Project\Almost Done\Penalty\bin\Debug\Penalty.pdb
+C:\Users\Hao Thien\Videos\Project\Almost Done\Penalty\obj\Debug\Penalty.csprojResolveAssemblyReference.cache
+C:\Users\Hao Thien\Videos\Project\Almost Done\Penalty\obj\Debug\Penalty.Form1.resources
+C:\Users\Hao Thien\Videos\Project\Almost Done\Penalty\obj\Debug\Penalty.GameResources.resources
+C:\Users\Hao Thien\Videos\Project\Almost Done\Penalty\obj\Debug\Penalty.Properties.Resources.resources
+C:\Users\Hao Thien\Videos\Project\Almost Done\Penalty\obj\Debug\Penalty.csproj.GenerateResource.Cache
+C:\Users\vongh\Desktop\Penalty\bin\Debug\Penalty.exe.config
+C:\Users\vongh\Desktop\Penalty\obj\Debug\Penalty.exe
+C:\Users\vongh\Desktop\Penalty\obj\Debug\Penalty.pdb
+C:\Users\vongh\Desktop\Penalty\bin\Debug\Penalty.exe
+C:\Users\vongh\Desktop\Penalty\bin\Debug\Penalty.pdb
+C:\Users\vongh\Desktop\Penalty\obj\Debug\Penalty.csprojResolveAssemblyReference.cache
+C:\Users\vongh\Desktop\Penalty\obj\Debug\Penalty.Form1.resources
+C:\Users\vongh\Desktop\Penalty\obj\Debug\Penalty.GameResources.resources
+C:\Users\vongh\Desktop\Penalty\obj\Debug\Penalty.Properties.Resources.resources
+C:\Users\vongh\Desktop\Penalty\obj\Debug\Penalty.csproj.GenerateResource.Cache
